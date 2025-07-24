@@ -1,3 +1,6 @@
 *.xlsx
 *.png
 *.joblib
+Lasso/
+RandomForest/
+XGBoost/
