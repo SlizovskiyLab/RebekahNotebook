@@ -18,6 +18,7 @@ The following Python software libraries were utilized:
 ## Input Files
 - `Predictors_Cleaned.xlsx`: Patient Sample Metadata
 - `Outcomes_Cleaned.xlsx`: Patient AMR Gene Counts Matrix
+Input Files will not be made public for the sake of subject confidentiality.
 
 ## Directory
 ### README.txt
